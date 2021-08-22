@@ -16,7 +16,7 @@ public class variable {
 		System.out.println("char2 : " + char2);
 	
 		// Á¤¼öÇü
-		byte byte1 = -128;
+		byte byte1 = -128; // 1byte
 		byte byte2 = 127;
 		System.out.println("byte1 : " + byte1);
 		System.out.println("byte2 : " + byte2);
